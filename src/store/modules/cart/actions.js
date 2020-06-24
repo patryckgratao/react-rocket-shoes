@@ -17,5 +17,5 @@ export function updateAmount(id, amount){
     type: '@cart/UPDATE_AMOUNT',
     id,
     amount,
-  }
+  };
 }
